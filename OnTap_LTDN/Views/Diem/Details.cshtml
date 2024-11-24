@@ -1,0 +1,34 @@
+﻿@model OnTap_LTDN.Models.Diem
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Diem</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.diem1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diem1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SinhVien.hoten)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SinhVien.hoten)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

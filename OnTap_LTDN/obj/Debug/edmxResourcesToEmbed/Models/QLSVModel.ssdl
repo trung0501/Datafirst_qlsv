@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSVModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Diem">
+    <Key>
+      <PropertyRef Name="masv" />
+      <PropertyRef Name="tenmh" />
+    </Key>
+    <Property Name="masv" Type="int" Nullable="false" />
+    <Property Name="tenmh" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="diem" Type="decimal" Precision="4" Scale="2" />
+  </EntityType>
+  <EntityType Name="SinhVien">
+    <Key>
+      <PropertyRef Name="masv" />
+    </Key>
+    <Property Name="masv" Type="int" Nullable="false" />
+    <Property Name="hoten" Type="nvarchar" MaxLength="50" />
+    <Property Name="namsinh" Type="int" />
+    <Property Name="gioitinh" Type="nvarchar" MaxLength="10" />
+    <Property Name="email" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <Association Name="FK_Diem_ToSinhVien">
+    <End Role="SinhVien" Type="Self.SinhVien" Multiplicity="1" />
+    <End Role="Diem" Type="Self.Diem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SinhVien">
+        <PropertyRef Name="masv" />
+      </Principal>
+      <Dependent Role="Diem">
+        <PropertyRef Name="masv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLSVModelStoreContainer">
+    <EntitySet Name="Diem" EntityType="Self.Diem" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SinhVien" EntityType="Self.SinhVien" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Diem_ToSinhVien" Association="Self.FK_Diem_ToSinhVien">
+      <End Role="SinhVien" EntitySet="SinhVien" />
+      <End Role="Diem" EntitySet="Diem" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

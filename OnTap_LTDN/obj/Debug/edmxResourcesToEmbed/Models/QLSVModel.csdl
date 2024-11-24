@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSVModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Diem">
+    <Key>
+      <PropertyRef Name="masv" />
+      <PropertyRef Name="tenmh" />
+    </Key>
+    <Property Name="masv" Type="Int32" Nullable="false" />
+    <Property Name="tenmh" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="diem1" Type="Decimal" Precision="4" Scale="2" />
+    <NavigationProperty Name="SinhVien" Relationship="Self.FK_Diem_ToSinhVien" FromRole="Diem" ToRole="SinhVien" />
+  </EntityType>
+  <EntityType Name="SinhVien">
+    <Key>
+      <PropertyRef Name="masv" />
+    </Key>
+    <Property Name="masv" Type="Int32" Nullable="false" />
+    <Property Name="hoten" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="namsinh" Type="Int32" />
+    <Property Name="gioitinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="email" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Diems" Relationship="Self.FK_Diem_ToSinhVien" FromRole="SinhVien" ToRole="Diem" />
+  </EntityType>
+  <Association Name="FK_Diem_ToSinhVien">
+    <End Role="SinhVien" Type="Self.SinhVien" Multiplicity="1" />
+    <End Role="Diem" Type="Self.Diem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SinhVien">
+        <PropertyRef Name="masv" />
+      </Principal>
+      <Dependent Role="Diem">
+        <PropertyRef Name="masv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLSVDataContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Diems" EntityType="Self.Diem" />
+    <EntitySet Name="SinhViens" EntityType="Self.SinhVien" />
+    <AssociationSet Name="FK_Diem_ToSinhVien" Association="Self.FK_Diem_ToSinhVien">
+      <End Role="SinhVien" EntitySet="SinhViens" />
+      <End Role="Diem" EntitySet="Diems" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

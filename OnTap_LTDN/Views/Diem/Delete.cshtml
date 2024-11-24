@@ -1,0 +1,40 @@
+﻿@model OnTap_LTDN.Models.Diem
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Diem</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.diem1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diem1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SinhVien.hoten)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SinhVien.hoten)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

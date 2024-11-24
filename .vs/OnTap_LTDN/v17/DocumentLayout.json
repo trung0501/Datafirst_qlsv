@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\ontap_ltdn\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|c:\\users\\admin\\source\\repos\\ontap_ltdn\\ontap_ltdn\\views\\sinhvien\\svdiemktltthapnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\views\\sinhvien\\svdiemktltthapnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|c:\\users\\admin\\source\\repos\\ontap_ltdn\\ontap_ltdn\\controllers\\diemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\controllers\\diemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\ontap_ltdn\\views\\diem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\views\\diem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\ontap_ltdn\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\ontap_ltdn\\views\\diem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\views\\diem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\ontap_ltdn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\ontap_ltdn\\views\\sinhvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\views\\sinhvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\ontap_ltdn\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\ontap_ltdn\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\ontap_ltdn\\models\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\models\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\ontap_ltdn\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04C3CC3-9C39-4FC7-BE25-BF70A2EF0ACF}|OnTap_LTDN\\OnTap_LTDN.csproj|solutionrelative:ontap_ltdn\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SVDiemKTLTThapnhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\SinhVien\\SVDiemKTLTThapnhap.cshtml",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Views\\SinhVien\\SVDiemKTLTThapnhap.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\SinhVien\\SVDiemKTLTThapnhap.cshtml",
+              "RelativeToolTip": "OnTap_LTDN\\Views\\SinhVien\\SVDiemKTLTThapnhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T15:53:56.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\SinhVien\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Views\\SinhVien\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\SinhVien\\Edit.cshtml",
+              "RelativeToolTip": "OnTap_LTDN\\Views\\SinhVien\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T01:02:18.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\SinhVien\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Views\\SinhVien\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\SinhVien\\Create.cshtml",
+              "RelativeToolTip": "OnTap_LTDN\\Views\\SinhVien\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T00:56:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\Diem\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Views\\Diem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\Diem\\Index.cshtml",
+              "RelativeToolTip": "OnTap_LTDN\\Views\\Diem\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T00:49:57.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\SinhVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Views\\SinhVien\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\SinhVien\\Index.cshtml",
+              "RelativeToolTip": "OnTap_LTDN\\Views\\SinhVien\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T00:47:52.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiemController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Controllers\\DiemController.cs",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Controllers\\DiemController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Controllers\\DiemController.cs",
+              "RelativeToolTip": "OnTap_LTDN\\Controllers\\DiemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:45:23.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnTap_LTDN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T00:35:16.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Controllers\\SinhVienController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "OnTap_LTDN\\Controllers\\SinhVienController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:28:47.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Models\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Models\\SinhVien.cs",
+              "RelativeToolTip": "OnTap_LTDN\\Models\\SinhVien.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:21:56.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Models\\Diem.cs",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Models\\Diem.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Models\\Diem.cs",
+              "RelativeToolTip": "OnTap_LTDN\\Models\\Diem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:25:03.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\Diem\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\Views\\Diem\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\Views\\Diem\\Edit.cshtml",
+              "RelativeToolTip": "OnTap_LTDN\\Views\\Diem\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T08:42:19.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "OnTap_LTDN\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnTap_LTDN\\OnTap_LTDN\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "OnTap_LTDN\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:28:27.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
